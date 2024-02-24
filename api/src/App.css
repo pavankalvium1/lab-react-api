@@ -1,0 +1,11 @@
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 0px 20px;
+}
+
+h4{
+  border-bottom: 3px solid rgb(196, 194, 194);
+}
